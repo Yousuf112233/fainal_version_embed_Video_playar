@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+
+    >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:src="@drawable/yousuf"
+        android:scaleType="centerCrop"
+        />
+
+
+    <LinearLayout
+        android:id="@+id/video1"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:src="@drawable/yousuf"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রিজিক কি দেলোয়ার হোসেন সাউদী"
+                android:textColor="#EC407A"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ওয়াজ বাংলা ওয়াজ মাহফিল বাংলা ওয়াজ দেলোয়ার হোসেন সাউদী ওয়াজ দেলোয়ার হোসেন সাউদী সাঈদী ওয়াজ মিজানুর রহমান আজহারী ওয়াজ মিজানুর রহমান আজহার আজহারী ওয়াজমদিনা সিরিজ "
+                android:textColor="#100C0C"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Duration 5:00"
+                android:textStyle="italic"
+
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/video2"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:src="@drawable/yousuf"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রিজিক কি দেলোয়ার হোসেন সাউদী"
+                android:textColor="#EC407A"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ওয়াজ বাংলা ওয়াজ মাহফিল বাংলা ওয়াজ দেলোয়ার হোসেন সাউদী ওয়াজ দেলোয়ার হোসেন সাউদী সাঈদী ওয়াজ মিজানুর রহমান আজহারী ওয়াজ মিজানুর রহমান আজহার আজহারী ওয়াজমদিনা সিরিজ "
+                android:textColor="#100C0C"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Duration 5:00"
+                android:textStyle="italic"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/video3"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+           android:src="@drawable/yousuf"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রিজিক কি দেলোয়ার হোসেন সাউদী"
+                android:textColor="#EC407A"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ওয়াজ বাংলা ওয়াজ মাহফিল বাংলা ওয়াজ দেলোয়ার হোসেন সাউদী ওয়াজ দেলোয়ার হোসেন সাউদী সাঈদী ওয়াজ মিজানুর রহমান আজহারী ওয়াজ মিজানুর রহমান আজহার আজহারী ওয়াজমদিনা সিরিজ "
+                android:textColor="#100C0C"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Duration 5:00"
+                android:textStyle="italic"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+</ScrollView>
